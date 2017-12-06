@@ -10,7 +10,6 @@
 
 	<modules>
 		<module>../user-core</module>
-		<module>../user-log</module>
 		<module>../user-service</module>
 		<module>../user-web</module>
 	</modules>
